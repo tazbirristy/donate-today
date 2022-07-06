@@ -43,9 +43,7 @@ h1 {
 
 .amount {
     display: flex;
-    justify-content: space-between;
-    margin: 0 auto;
-    width: 65%;
+    justify-content: center;
     color: gray;
     margin-bottom: 60px;
 

@@ -1,0 +1,212 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 60px;
+
+}
+
+.upper-section {
+    background-image: url(images/upper-background-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.upper-volume {
+    width: 50%;
+    padding: 10%;
+    margin: 0 auto;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(90deg, red, orange);
+    padding: 10px 50px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.donate-today {
+    width: 50%;
+    padding: 3%;
+    margin: 0 auto;
+    color: black;
+    text-align: center;
+}
+
+.amount {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 50%;
+    color: gray;
+    margin-bottom: 60px;
+
+}
+
+.background-amount {
+    background-color: gainsboro;
+    padding: 20px 30px;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.background-200tk {
+    background-color: rgba(240, 152, 181, 0.757);
+    padding: 20px 30px;
+    font-weight: 700;
+    font-size: 30px;
+    border: 3px solid red;
+    color: brown;
+    border-radius: 10px;
+}
+
+.input-field {
+    text-align: center;
+}
+
+.input-holder input {
+    margin: 40px 0 40px 0;
+    width: 45%;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+.plan-1 {
+    text-align: center;
+
+}
+
+.plan-1 h1 {
+    margin-bottom: 25px;
+}
+
+.plan-1 p {
+    font-size: 20px;
+    margin: 0 auto;
+    width: 40%;
+
+}
+
+.re-arrange {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.plan-2 {
+    width: 20%;
+    padding: 40px 25px;
+    margin: 0 1%;
+
+}
+
+.food {
+    background-color: rgb(238, 255, 255);
+}
+
+.shelter {
+    background-color: rgb(255, 225, 225);
+}
+
+.education {
+    background-color: rgb(243, 243, 217);
+}
+
+.latest-news {
+    margin: 100px 0;
+}
+
+.news-top {
+    text-align: center;
+    font-size: 20px;
+    width: 47%;
+    margin: 0 auto;
+}
+
+.news-volunteer-box {
+    display: flex;
+    margin-top: 70px;
+    font-size: 15px
+}
+
+.information {
+    padding: 2%;
+    width: 40%;
+    border-radius: 25px;
+    box-shadow: 0 5px 30px rgb(145, 130, 125);
+
+}
+
+.information img {
+    width: 100%;
+    border-radius: 25px;
+}
+
+.news-box {
+    margin-left: 8%;
+    margin-right: 2%;
+}
+
+.volunteer-box {
+    margin-left: 2%;
+    margin-right: 8%;
+}
+
+.updates {
+    margin: 100px;
+}
+
+.updates-head {
+    text-align: center;
+    font-size: 20px;
+    width: 47%;
+    margin: 0 auto;
+}
+
+
+.input-information {
+    padding: 60px 60px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(250, 204, 216);
+}
+
+#mail {
+    padding: 10px 20px;
+    margin: none;
+    background-color: aliceblue;
+    border-radius: 5px 0 0 5px;
+}
+
+#subscribe {
+    padding: 10px 20px;
+    margin-left: -5px;
+    background-color: tomato;
+    border-radius: 0 5px 5px 0;
+}
+
+
+
+.donation-footer {
+    background-color: black;
+    padding: 2.5%;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Lobster', cursive;
+    color: orangered;
+}

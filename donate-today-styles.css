@@ -57,6 +57,7 @@ h1 {
     font-weight: 700;
     font-size: 30px;
     border-radius: 10px;
+    margin: 0 3%;
 }
 
 .background-200tk {
@@ -64,6 +65,7 @@ h1 {
     padding: 20px 30px;
     font-weight: 700;
     font-size: 30px;
+    margin: 0 3%;
     border: 3px solid red;
     color: brown;
     border-radius: 10px;
